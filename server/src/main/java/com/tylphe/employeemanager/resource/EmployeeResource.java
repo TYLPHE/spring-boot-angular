@@ -2,7 +2,6 @@ package com.tylphe.employeemanager.resource;
 
 import com.tylphe.employeemanager.model.Employee;
 import com.tylphe.employeemanager.service.EmployeeService;
-import org.apache.coyote.Response;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
